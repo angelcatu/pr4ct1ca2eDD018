@@ -1,0 +1,82 @@
+CodigoArticulo;Tienda;CLIENTE_PROVEEDOR;CodigoCliente;NombreCliente;CodigoSucursal;NombreSucursal;Region;Departamento;Cantidad;PrecioUnitario;Costo
+AB000084;Perfumeria;C;K487832;Jescie Bolton;S38;Sucursal Elite 38;Sur;Sololá;5;945;661.5
+AB000016;Ropa de niños;C;G373823;Leilani Mercado;S23;Sucursal Elite 23;Norte;Baja Verapaz;4;50;35
+AB000091;Perfumeria;C;W344252;Aaron Salazar;S10;Sucursal Elite 1;Norte;Guatemala;3;831;581.7
+AB000013;Ropa de caballero;C;Z499617;Wesley England;S34;Sucursal Elite 34;Sur;Santa Rosa;1;250;175
+AB000047;Perfumeria;C;Y371742;Cassandra Hoover;S4;Sucursal Elite 39;Norte;Baja Verapaz;10;1250;875
+AB000018;Ropa de niños;C;Q134515;Deirdre Mathis;S23;Sucursal Elite 23;Norte;Baja Verapaz;3;60;42
+AB000087;Perfumeria;C;E767479;Brynn Higgins;S29;Sucursal Elite 29;Norte;Chimaltenango;2;191;133.7
+AB000047;Perfumeria;C;T489744;Rafael Hale;S22;Sucursal Elite 22;Norte;Baja Verapaz;4;1250;875
+AB000031;Electrodomesticos;C;E216444;Gemma Barrett;S30;Sucursal Elite 30;Norte;Escuintla;5;3599;2519.3
+AB000056;Perfumeria;C;H455964;Bruno Burks;S25;Sucursal Elite 25;Sur;Santa Rosa;6;475;332.5
+AB000054;Perfumeria;C;Z299451;Phelan Gross;S20;Sucursal Elite 20;Sur;San Marcos;7;571;399.7
+AB000089;Perfumeria;C;E683772;Vivian Patrick;S11;Sucursal Elite 11;Sur;Suchitepéquez;8;191;133.7
+AB000080;Perfumeria;C;R689765;Chelsea Sutton;S25;Sucursal Elite 25;Sur;Santa Rosa;3;276;193.2
+AB000058;Perfumeria;C;T732299;Alfreda Hester;S14;Sucursal Elite 14;Sur;Zacapa;5;391;273.7
+AB000059;Perfumeria;C;R482853;Adara Lawrence;S23;Sucursal Elite 23;Norte;Baja Verapaz;7;441;308.7
+AB000010;Ropa de caballero;C;H781414;September Allison;S6;Sucursal Elite 43;Norte;Alta Verapaz;1;150;105
+AB000034;Electrodomesticos;C;U961913;Nita Mcdowell;S4;Sucursal Elite 39;Norte;Baja Verapaz;5;1263;884.1
+AB000054;Perfumeria;C;S737426;Cameron Mccoy;S42;Sucursal Elite 42;Norte;Huehuetenango;1;571;399.7
+AB000021;Deporte;C;Y119131;Nadine Kelly;S35;Sucursal Elite 35;Occidente;Quetzaltenango;6;150;105
+AB000021;Deporte;C;F919641;Uriel Taylor;S27;Sucursal Elite 27;Sur;Suchitepéquez;6;150;105
+AB000051;Perfumeria;C;K734656;Sean Bernard;S25;Sucursal Elite 25;Sur;Santa Rosa;9;390;273
+AB000047;Perfumeria;C;N349336;Raven Henderson;S29;Sucursal Elite 29;Norte;Chimaltenango;4;1250;875
+AB000002;Ropa de Dama;C;N292842;Carter Joyner;S37;Sucursal Elite 37;Norte;Guatemala;8;120;84
+AB000050;Perfumeria;C;V561922;Blythe Owen;S26;Sucursal Elite 26;Occidente;Quetzaltenango;2;355;248.5
+AB000046;Perfumeria;C;X138467;Fitzgerald Park;S26;Sucursal Elite 26;Occidente;Quetzaltenango;2;980;686
+AB000003;Ropa de Dama;C;W559969;Amal Hatfield;S30;Sucursal Elite 30;Norte;Escuintla;2;120;84
+AB000064;Perfumeria;C;A583229;Conan Hernandez;S31;Sucursal Elite 31;Occidente;Quiché;4;335;234.5
+AB000045;Perfumeria;C;K882178;Fletcher Washington;S15;Sucursal Elite 15;Norte;Jalapa;4;990;693
+AB000086;Perfumeria;C;T249684;Channing Sawyer;S37;Sucursal Elite 37;Norte;Guatemala;9;191;133.7
+AB000079;Perfumeria;C;G696431;Audra Oneal;S23;Sucursal Elite 23;Norte;Baja Verapaz;2;276;193.2
+AB000025;Deporte;C;Z629394;David Gentry;S13;Sucursal Elite 13;Sur;Totonicapán;5;150;105
+AB000071;Perfumeria;C;K748936;Hector Foreman;S12;Sucursal Elite 12;Norte;Baja Verapaz;7;266;186.2
+AB000054;Perfumeria;C;Y163896;Lyle Joseph;S25;Sucursal Elite 25;Sur;Santa Rosa;48;571;399.7
+AB000006;Ropa de Dama;C;J232613;Lucas Norton;S11;Sucursal Elite 11;Sur;Suchitepéquez;34;90;63
+AB000051;Perfumeria;C;A678591;Moana Frazier;S24;Sucursal Elite 24;Occidente;Quiché;42;390;273
+AB000085;Perfumeria;C;B179751;Chase Benjamin;S31;Sucursal Elite 31;Occidente;Quiché;47;731;511.7
+AB000092;Perfumeria;C;B776597;Brenden Clark;S8;Sucursal Elite 43;Norte;Alta Verapaz;28;626;438.2
+AB000015;Ropa de niños;C;J126652;Donna Kinney;S13;Sucursal Elite 13;Sur;Totonicapán;4;110;77
+AB000096;Perfumeria;C;I291567;Claire Good;S39;Sucursal Elite 39;Norte;Baja Verapaz;9;1351;945.7
+AB000019;Deporte;P;NC39233;Magna Lorem LLC;S1;Sucursal Elite 1;Norte;Guatemala;29;3800;2660
+AB000042;Electronicos;P;TT58856;Vivamus Nisi Limited;S1;Sucursal Elite 1;Norte;Guatemala;36;5400;3780
+AB000011;Ropa de caballero;P;YV48515;Euismod Enim Ltd;S1;Sucursal Elite 1;Norte;Guatemala;30;140;98
+AB000003;Ropa de Dama;P;KE51218;Fringilla Porttitor Corp.;S1;Sucursal Elite 1;Norte;Guatemala;20;120;84
+AB000056;Perfumeria;P;QX64757;Ligula Ltd;S1;Sucursal Elite 1;Norte;Guatemala;30;475;332.5
+AB000086;Perfumeria;P;JN99126;Erat Nonummy Ultricies Institute;S1;Sucursal Elite 1;Norte;Guatemala;46;191;133.7
+AB000059;Perfumeria;P;JS36344;Aliquet Proin Company;S1;Sucursal Elite 1;Norte;Guatemala;50;441;308.7
+AB000066;Perfumeria;P;DN92527;Tellus Institute;S1;Sucursal Elite 1;Norte;Guatemala;30;351;245.7
+AB000081;Perfumeria;P;LQ64714;Donec Institute;S1;Sucursal Elite 1;Norte;Guatemala;22;256;179.2
+AB000085;Perfumeria;P;PZ21836;Ipsum Primis Foundation;S1;Sucursal Elite 1;Norte;Guatemala;27;731;511.7
+AB000037;Muebles;P;ZJ26397;Vivamus Foundation;S1;Sucursal Elite 1;Norte;Guatemala;28;4210;2947
+AB000001;Ropa de Dama;P;JY64559;Orci PC;S1;Sucursal Elite 1;Norte;Guatemala;30;50;35
+AB000015;Ropa de niños;P;YC43217;Non Quam Pellentesque Inc.;S1;Sucursal Elite 1;Norte;Guatemala;40;110;77
+AB000079;Perfumeria;P;BF51423;Tincidunt Tempus Foundation;S1;Sucursal Elite 1;Norte;Guatemala;30;276;193.2
+AB000029;Electrodomesticos;P;TR98357;Dui Fusce LLC;S1;Sucursal Elite 1;Norte;Guatemala;45;2399;1679.3
+AB000069;Perfumeria;P;NW63423;Pellentesque A Ltd;S1;Sucursal Elite 1;Norte;Guatemala;43;236;165.2
+AB000058;Perfumeria;P;LC61454;Id Magna Et LLC;S1;Sucursal Elite 1;Norte;Guatemala;32;391;273.7
+AB000049;Perfumeria;P;WQ97984;Egestas Urna Justo Corp.;S1;Sucursal Elite 1;Norte;Guatemala;31;431;301.7
+AB000027;Deporte;P;XA93251;Sed Dolor Fusce Associates;S1;Sucursal Elite 1;Norte;Guatemala;32;140;98
+AB000003;Ropa de Dama;P;SN68257;Eu Foundation;S1;Sucursal Elite 1;Norte;Guatemala;38;120;84
+AB000007;Ropa de Dama;P;LE99274;Curabitur Corporation;S1;Sucursal Elite 1;Norte;Guatemala;27;60;42
+AB000063;Perfumeria;P;KL32736;Cum Sociis Natoque Consulting;S1;Sucursal Elite 1;Norte;Guatemala;39;380;266
+AB000017;Ropa de niños;P;JT56112;Sodales Incorporated;S1;Sucursal Elite 1;Norte;Guatemala;38;60;42
+AB000066;Perfumeria;P;XD49865;Suspendisse Aliquet Limited;S1;Sucursal Elite 1;Norte;Guatemala;28;351;245.7
+AB000094;Perfumeria;P;YW27614;Blandit At LLC;S1;Sucursal Elite 1;Norte;Guatemala;37;1081;756.7
+AB000030;Electrodomesticos;P;RL84637;Vulputate Eu Corp.;S1;Sucursal Elite 1;Norte;Guatemala;38;5999;4199.3
+AB000071;Perfumeria;P;RE72959;Adipiscing Ligula Foundation;S1;Sucursal Elite 1;Norte;Guatemala;40;266;186.2
+AB000066;Perfumeria;P;LQ88229;Augue Ut Lacus Associates;S1;Sucursal Elite 1;Norte;Guatemala;34;351;245.7
+AB000049;Perfumeria;P;TN43869;Lobortis PC;S1;Sucursal Elite 1;Norte;Guatemala;43;431;301.7
+AB000083;Perfumeria;P;GB87774;Risus In Mi Industries;S1;Sucursal Elite 1;Norte;Guatemala;44;711;497.7
+AB000092;Perfumeria;P;GK73188;Pede Company;S1;Sucursal Elite 1;Norte;Guatemala;41;626;438.2
+AB000091;Perfumeria;P;LB17499;Sed Dictum Ltd;S1;Sucursal Elite 1;Norte;Guatemala;26;831;581.7
+AB000083;Perfumeria;P;XC43143;Sem Eget LLP;S1;Sucursal Elite 1;Norte;Guatemala;20;711;497.7
+AB000069;Perfumeria;P;KS15919;Feugiat Corp.;S1;Sucursal Elite 1;Norte;Guatemala;48;236;165.2
+AB000077;Perfumeria;P;MZ65188;Elementum At Egestas Company;S1;Sucursal Elite 1;Norte;Guatemala;32;331;231.7
+AB000076;Perfumeria;P;SV76623;Sem LLC;S1;Sucursal Elite 1;Norte;Guatemala;40;226;158.2
+AB000051;Perfumeria;P;WX14184;Gravida Praesent Corp.;S1;Sucursal Elite 1;Norte;Guatemala;30;390;273
+AB000023;Deporte;P;NE19416;Ac Ipsum Institute;S1;Sucursal Elite 1;Norte;Guatemala;22;1575;1102.5
+AB000001;Ropa de Dama;P;VU61112;Convallis Convallis Corporation;S1;Sucursal Elite 1;Norte;Guatemala;40;50;35
+AB000074;Perfumeria;P;MX75714;Duis Company;S1;Sucursal Elite 1;Norte;Guatemala;46;100;70
+AB000032;Electrodomesticos;P;QD37241;Integer Tincidunt Aliquam Inc.;S1;Sucursal Elite 1;Norte;Guatemala;23;2840;1988
+AB000088;Perfumeria;P;SN44569;Ac Foundation;S1;Sucursal Elite 1;Norte;Guatemala;31;191;133.7
